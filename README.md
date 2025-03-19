@@ -81,6 +81,7 @@ Let's check the status of the solution and the optimal values for Product A and 
 The output will provide the optimal number of units to produce for Product A and Product B and the maximum profit achievable under the given constraints.
 
 
+
 ## Insights
 The optimal production plan is to produce 30 units of Product A and 20 units of Product B.
 
@@ -99,3 +100,7 @@ This notebook demonstrates how to use Linear Programming and the PuLP library in
 2.Extend the model to include more products or resources.
 
 3.Explore other optimization techniques (e.g., integer programming, nonlinear programming) for more complex problems.
+
+
+## Output
+
