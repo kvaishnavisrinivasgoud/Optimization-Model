@@ -104,3 +104,5 @@ This notebook demonstrates how to use Linear Programming and the PuLP library in
 
 ## Output
 
+[Expected Output.txt](https://github.com/user-attachments/files/19342900/Expected.Output.txt)
+
