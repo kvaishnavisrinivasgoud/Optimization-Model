@@ -69,7 +69,7 @@ We will add the resource and demand constraints to the problem.
    Product B≤30
 
 
-##Step 6: Solve the Problem
+## Step 6: Solve the Problem
 Now, we will solve the problem using the default solver in Pulp.
 
 
