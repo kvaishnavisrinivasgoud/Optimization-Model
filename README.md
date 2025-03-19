@@ -104,4 +104,3 @@ This notebook demonstrates how to use Linear Programming and the PuLP library in
 
 ## Output  
 
-
