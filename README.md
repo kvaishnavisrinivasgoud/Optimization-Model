@@ -1,4 +1,18 @@
 # Optimization-Model
+
+*COMPANY* : CODETECH IT SOLUTIONS
+
+*NAME* : K.VAISHNAVI
+
+*INTERN ID* : CT08VYQ
+
+*DOMAIN* : DATA SCIENCE
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANOTOSH
+
+
 ## Solving a Business Problem Using Optimization Techniques (Linear Programming) and Python Libraries like Pulp
 In this notebook, we will solve a business problem using Linear Programming (LP) and the Pulp library in Python. The problem we will address is a classic production optimization problem, where a company wants to maximize its profit by determining the optimal number of units to produce for each product, given constraints like resource availability and demand.
 
